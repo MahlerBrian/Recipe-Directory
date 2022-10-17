@@ -6,6 +6,7 @@ import Create from './pages/create/create'
 import Search from './pages/search/search'
 import Recipe from './pages/recipe/recipe'
 import Navbar from './components/navbar'
+import RecipeList from './components/recipeList'
 
 //styles
 import './App.css'
